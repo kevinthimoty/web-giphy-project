@@ -1,0 +1,5 @@
+Cara menjalankan program:
+
+1. Buka folder project dengan menggunakan Visual Code
+2. Buka terminal dan jalankan 'npm start'
+3. Buka http://localhost:3000/ di browser
